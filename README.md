@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou procurando um emprego na area de front-end
 - 🌱 Estudando Css e cursando Geografia
-- 💬 Contate-me no em-mail: Giovannaraissacontact@gmail.com
+- 💬 Contate-me no e-mail: Giovannaraissacontact@gmail.com
 - 📍 Moro no Paraná/Santa Catarina
 
 <div align="center">
